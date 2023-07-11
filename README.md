@@ -2,14 +2,14 @@
 A Resume website created using HTML, CSS , JS by Rahul Taak
 
 #Sections :
-About
-1. Languages
-2. Education
-3. Contact
-4. Social Profiles
-5. Work Experience
-6. Hobbies
-7. Web Developemnt Skills
-8. Other Languages
-9. Extra Curricular Interest
-10.Projects
+1. About
+2. Languages
+3. Education
+4. Contact
+5. Social Profiles
+6. Work Experience
+7. Hobbies
+8. Web Developemnt Skills
+9. Other Languages
+10. Extra Curricular Interest
+11.Projects
