@@ -12,4 +12,4 @@ A Resume website created using HTML, CSS , JS by Rahul Taak
 8. Web Developemnt Skills
 9. Other Languages
 10. Extra Curricular Interest
-11.Projects
+11. Projects
