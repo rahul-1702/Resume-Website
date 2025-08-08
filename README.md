@@ -1,4 +1,4 @@
-## Website Link : https://rahul-taak.github.io/Resume-Website
+## Website Link : https://rahul-1702.github.io/Resume-Website
 
 # Resume-Website
 A Resume website created using HTML, CSS , JS by Rahul Taak
